@@ -1,3 +1,4 @@
 [submodule "cuda_event_ops"]
 	path = cuda_event_ops
-	url = git@github.com:tudelft/cuda_event_ops.git
+	url = git@github.com:kmalkow/cuda_event_ops.git
+	branch = main
